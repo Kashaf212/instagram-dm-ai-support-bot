@@ -37,6 +37,5 @@ No human intervention is required for common queries.
 
 ---
 
-## 🧠 How It Works (Big Picture)
 
 
